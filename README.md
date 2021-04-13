@@ -33,18 +33,31 @@ A film genre is a motion-picture category based (for example) on similarities ei
 I have taken data from this link for analysis movie ratings. https://www.mavenanalytics.io/data-playground
 
 Recommended Analysis
-Most popular movies by audience watch?
-which year maximum movies were released in treaters.
-which month maximum movies were released in treaters.
-What does the distribution of films look like by rating
-What % of films received a Certified Fresh Tomatometer rating? What about Rotten?
-What the trend between audience vote count against audience ratings?
-how many genres category we have ?
-Which genres are the most common (number of movies made)?
-Which genres have high audience voting?
-Which genres have high number of movies with an voting avg. >=80?
-Compare average Tomatometer ratings by Studio. Which studios produce the highest rated films, on average? The lowest?
-Compare the Tomatometer ratings against audience ratings. Which films showed the largest discrepancies between audiences and critics?
+
+1.  Most popular movies by audience watch?
+
+2.  which year maximum movies were released in treaters.
+
+3.  which month maximum movies were released in treaters.
+
+4.  What does the distribution of films look like by rating
+
+5.  What % of films received a Certified Fresh Tomatometer rating? What about Rotten?
+
+6.  What the trend between audience vote count against audience ratings?
+
+7.  how many genres category we have ?
+
+8.  Which genres are the most common (number of movies made)?
+
+9.  Which genres have high audience voting?
+
+10. Which genres have high number of movies with an voting avg. >=80?
+
+11. Compare average Tomatometer ratings by Studio. Which studios produce the highest rated films, on average? The lowest?
+
+12. Compare the Tomatometer ratings against audience ratings. Which films showed the largest discrepancies between audiences and critics?
+
 I have used NumPy, pandas and metplotlib libraries to do Exploratory Analysis and Visualization in this project.
 
 Data Analysis with Python: Zero to Pandas” course is practical, beginner-friendly and coding-focused, i have learned an introduction to data analysis covering the basics of Python, Numpy, Pandas, data visualization and exploratory data analysis in details and short period. you can get an environment to practice and assignment to learn and practice your skills
